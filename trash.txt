@@ -1,0 +1,3 @@
+npm init -y 
+"dev": "nodemon src/app.js"
+npm i bootstrap dotenv express hbs jquerry mongoose validator bcrypt jwt cookieParser
